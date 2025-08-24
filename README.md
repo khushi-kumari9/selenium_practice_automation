@@ -10,7 +10,8 @@ It was built for educational purposes to practice **web automation**.
 ## Features  
 - Automates Facebook login  
 - Posts a status update automatically  
-- Uses Selenium WebDriver with Python  
+- Uses Selenium WebDriver with Python
+- for GUI tkinter 
 
 ---
 
