@@ -37,6 +37,6 @@ Automating real accounts can violate Facebook’s terms of service — use caref
 
 Demo
 
-🎥 Watch the demo video here
-Demo
-https://drive.google.com/file/d/1UH1bfMVcFmFSIqRHQ3NNW58EnNWS9e56/view?usp=sharing
+## Demo
+🎥 [Watch the demo video on drive](https://drive.google.com/file/d/1UH1bfMVcFmFSIqRHQ3NNW58EnNWS9e56/view?usp=sharing)
+
